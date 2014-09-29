@@ -1,4 +1,4 @@
-FROM base:ubuntu-14.04
+FROM ubuntu:14.04
 MAINTAINER Jon Eckstein <jon.eckstein@gmail.com>
 
 #Update
